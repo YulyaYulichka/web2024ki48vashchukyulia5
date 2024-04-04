@@ -4,7 +4,7 @@ This repository created for course "WEB design technology" of Lviv Polytechnic N
 ### Task
 The point of this course is to create a modern dynamic website business card with your personal data or information using PHP, JavaScript, HTML, CSS and MySQL. Use POST and GET methods to navigate pages or send forms to the server. Use AJAX method to load parts of the page depending on user inputs.
 
-#### Tasks
+
 - Initiate GIT repository
 - Create website business card
 - Deploy 
